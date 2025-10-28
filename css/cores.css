@@ -1,0 +1,44 @@
+/* Fundo da página e textos */
+body {
+    background-color: #DDDCC5 !important;
+    color: #1D2326 !important;
+}
+
+/* Navbar personalizada */
+.navbar {
+    background-color: #1D2326 !important;
+}
+
+.navbar .navbar-brand {
+    color: #DDDCC5 !important;
+}
+
+.navbar .nav-link {
+    color: #DDDCC5 !important;
+}
+
+.navbar .nav-link:hover {
+    color: #958976 !important;
+}
+
+/* Botões: todos iguais */
+.btn {
+    background-color: #611427 !important;
+    border-color: #611427 !important;
+    color: #DDDCC5 !important;
+}
+
+.btn:hover {
+    background-color: #958976 !important;
+    border-color: #958976 !important;
+    color: #DDDCC5 !important;
+}
+
+/* Links normais */
+a {
+    color: #1D2326 !important;
+}
+
+a:hover {
+    color: #611427 !important;
+}
